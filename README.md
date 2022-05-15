@@ -1,5 +1,6 @@
 # Modern UI/UX GPT-3
 This a Modern UI/UX GPT-3 Landing Page.
+https://gp3.netlify.app/
 
 This website is built with best react practices. They include the use of the following: 
 - React Functional components and their reusability
